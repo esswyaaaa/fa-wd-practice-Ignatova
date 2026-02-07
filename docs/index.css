@@ -1,3 +1,38 @@
-main{
+.surn{
     background-color: red;
+}
+.name{
+    color: green;
+    font-family: Lato;
+}
+
+.n1 { color: #E74C3C; }
+.n2 { color: #3498DB; }
+.n3 { color: #2ECC71; }
+.n4 { color: #F39C12; }
+.n5 { color: #9B59B6; }
+.n6 { color: #1ABC9C; }
+.n7 { color: #E67E22; }
+.n8 { color: #34495E; }
+.n9 { color: #D35400; }
+.n10 { color: #16A085; }
+
+.sentence-1 {
+     font-family: 'Trebuchet MS';
+}
+
+.sentence-2 {
+    font-family: Arial;
+}
+
+.sentence-3 {
+    font-family: 'Courier New';
+}
+
+.sentence-4 {
+    font-family: Georgia;
+}
+
+.sentence-5 {
+    font-family: Verdana;
 }
